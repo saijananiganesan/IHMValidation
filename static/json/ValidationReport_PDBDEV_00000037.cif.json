@@ -1,7 +1,7 @@
 [
     {
         "Category": "date",
-        "Itemized_List": "March 07, 2021 --  07:07 PM"
+        "Itemized_List": "March 30, 2021 --  09:23 PM"
     },
     {
         "Category": "ensemble_info",
@@ -202,7 +202,7 @@
     },
     {
         "Category": "Authors",
-        "Itemized_List": "Gutierrez C;Chemmama IE;Mao H;Yu C;Echeverria I;Block S;Rychnovsky SD;Zheng N;Sali A;Huang L"
+        "Itemized_List": "Gutierrez C; Chemmama IE; Mao H; Yu C; Echeverria I; Block S; Rychnovsky SD; Zheng N; Sali A; Huang L"
     },
     {
         "Category": "Entry_list",
@@ -964,14 +964,14 @@
     {
         "Category": "Subunits",
         "Itemized_List": [
+            "CSN4: Chain D (406 residues)",
             "CSN1: Chain A (491 residues)",
+            "CSN7: Chain G (264 residues)",
             "CSN6: Chain F (327 residues)",
             "CSN8: Chain H (209 residues)",
-            "CSN3: Chain C (423 residues)",
-            "CSN7: Chain G (264 residues)",
             "CSN2: Chain B (443 residues)",
-            "CSN4: Chain D (406 residues)",
-            "CSN5: Chain E (334 residues)"
+            "CSN5: Chain E (334 residues)",
+            "CSN3: Chain C (423 residues)"
         ]
     },
     {
